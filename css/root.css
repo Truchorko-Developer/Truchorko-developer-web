@@ -1,0 +1,46 @@
+.avatarnav {
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: cover;
+}
+
+.showstatus {
+  display: block;
+}
+
+.denystatus {
+  display: none;
+}
+
+@media only screen and (max-width: 425px) {
+  .navbar-btns__links {
+    display: none;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: #18191C;
+}
+
+::-webkit-scrollbar:vertical {
+  width: 10px;
+}
+
+::-webkit-scrollbar:horizontal {
+  height: 10px;
+}
+
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #3BA55C;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #18191C;
+}
