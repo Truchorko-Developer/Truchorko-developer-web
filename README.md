@@ -7,5 +7,5 @@ En primer lugar, gracias por usar este código fuente
 Por eso les pido a todos que lo usen por replit dando un git clone desde replit ra tener un hosting de mala calidad en la nuve desde https://uptimerobot.com
 
 
-[Uptimerobot](https://s3-eu-west-1.amazonaws.com/tpd/logos/5e60b77f92ead400019e9dac/0x0.png)](https://uptimerobot.com/dashboard#mainDashboard)
-[Replit](https://brandslogos.com/wp-content/uploads/images/large/replit-logo.png)](https://replit.com)
+[Uptimerobot](https://cdn.discordapp.com/attachments/960613128557694996/962532210479599706/0x0.png)](https://uptimerobot.com/)
+[Replit](https://cdn.discordapp.com/attachments/960613128557694996/962532210781597696/replit-logo.png)](https://replit.com/)
