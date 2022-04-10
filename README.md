@@ -1,4 +1,4 @@
-# Public Bot and Support Server!
+# ¡Web-Simple pública y codigo libre!
 
 <a href="https://discord.gg/"><img src="https://truchorko-developer.tk/img/TruchorkoBannerOpenGraph.png"></a>
  
